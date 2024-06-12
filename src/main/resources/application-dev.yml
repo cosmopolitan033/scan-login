@@ -1,0 +1,14 @@
+server:
+  port: 8093
+
+weixin:
+  config:
+    originalid: gh_beeeaebc9f6a
+    app-id: wx6659ce4eea403a1c
+    app-secret: e33675d4457169d15b8080bb0ff1cc25
+    token: genghl
+
+logging:
+  level:
+    root: info
+  config: classpath:logback-spring.xml
